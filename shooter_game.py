@@ -90,7 +90,7 @@ win = font3.render('YOU WIN', True, (255, 200, 0))
 lose = font4.render('YOU LOSE', True, (255, 0, 0))
 
 
-lifes = 3
+lifes = 5
 finish = False
 clock = time.Clock()
 game = True
